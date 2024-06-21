@@ -4,11 +4,11 @@
 
 **Programs created by [Fernando Mengali](https://www.linkedin.com/in/fernando-mengali-273504142/)**
 
-YrpreyC is a framework written in the C++ language that contains vulnerabilities related to memory issues, categorized as overflows. The framework was developed for individuals interested in teaching and learning more about Pentesting (penetration testing) and Application Security. 
+YrpreyC is a framework written in the C language that contains vulnerabilities related to memory issues, categorized as overflows. The framework was developed for individuals interested in teaching and learning more about Pentesting (penetration testing) and Application Security. 
 
 In the context of Offensive Security, vulnerabilities present in web applications can be identified, exploited, and compromised. For professionals and experts in application security, the framework provides an in-depth understanding of vulnerabilities at the code level.
 
-Currently, Yrprey is one of the frameworks in C++ with the highest number of memory-related vulnerabilities worldwide, making it valuable for educational, learning, and teaching purposes in the field of Information Security. For more information about the vulnerabilities, we recommend exploring the available details on [yrprey.com](https://yrprey.com).
+Currently, Yrprey is one of the frameworks in C with the highest number of memory-related vulnerabilities worldwide, making it valuable for educational, learning, and teaching purposes in the field of Information Security. For more information about the vulnerabilities, we recommend exploring the available details on [yrprey.com](https://yrprey.com).
 
 #### Features
  - Based on OWASP A5 from 2003 and 2005.
@@ -88,20 +88,20 @@ To successfully execute a calculator or perform another action on Windows, we re
 
 ## How to exploit vulnerability number 02 from the table (Command Injection)
 
-![yprey](https://i.imgur.com/gaP7BEO.png)
+![yprey](https://i.imgur.com/OZaTa2j.png)
 
 01 - Enter the directory or folder name followed by the pipe character and a system-level operating system command, for example, "ipconfig".
 
 ## How to exploit vulnerability number 03 from the table (Format String)
 
-![yprey](https://i.imgur.com/txVOze3.png)
+![yprey](https://i.imgur.com/SsCdNEm.png)
 
 01 - Enter more than 20 characters to gain visibility into the memory issue related to Format String..
 
 
 ## How to exploit vulnerability number 04 from the table (Memory Leak)
 
-![yprey](https://i.imgur.com/K6tpSkt.png)
+![yprey](https://i.imgur.com/9GoMOxk.png)
 
 01 - Access to the program to check memory leakage and consumption.
 
